@@ -93,10 +93,10 @@ h1.title {
     animation-fill-mode: both; }
 
 .score-container:after {
-  content: "puan"; }
+  content: "Current"; }
 
 .best-container:after {
-  content: "en iyi"; }
+  content: "Best"; }
 
 p {
   margin-top: 0;
@@ -334,31 +334,31 @@ hr {
     background: #f0f url('../img/marin.jpg');
     background-size: cover; }
   .tile.tile-128 .tile-inner {
-    background: #f0f url('../img/drot.jpg');
+    background: #f0f url('../img/roko.jpg');
     background-size: cover; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    background: #f0f url('../img/ayakkabici.jpg');
+    background: #f0f url('../img/topac.jpg');
     background-size: cover; }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    background: #f0f url('../img/reza.jpg');
+    background: #f0f url('../img/tepuric.jpg');
     background-size: cover; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background: #f0f url('../img/bilo.jpg');
+    background: #f0f url('../img/niksa.jpg');
     background-size: cover; }
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    background: #f0f url('../img/tayyo.jpg');
+    background: #f0f url('../img/marko.jpg');
     background-size: cover; }
     @media screen and (max-width: 520px) {
       .tile.tile-2048 .tile-inner {
